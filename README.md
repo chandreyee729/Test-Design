@@ -10,3 +10,4 @@ Defect Log: https://github.com/chandreyee729/Test-Design/blob/main/Bug%20Report%
 - An example of scenario development and use case creation from few critical user stories of a Digital Marketplace for Capital Financing - Invoice Maturity, Bank Data vaidation, Complex Payment Scheduling on Holidays 
 
 file path : https://github.com/chandreyee729/Test-Design/blob/main/CRX_Design_Test_Cases_1.pdf
+            https://github.com/chandreyee729/Test-Design/blob/main/CRX_Design_Test_Cases_2_Story_1.pdf
