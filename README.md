@@ -11,3 +11,4 @@ Defect Log: https://github.com/chandreyee729/Test-Design/blob/main/Bug%20Report%
 
 file path : https://github.com/chandreyee729/Test-Design/blob/main/CRX_Design_Test_Cases_1.pdf
             https://github.com/chandreyee729/Test-Design/blob/main/CRX_Design_Test_Cases_2_Story_1.pdf
+            https://github.com/chandreyee729/Test-Design/blob/main/CRX_Design_Test_Cases_2_Story_2.pdf
